@@ -50,7 +50,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/popx-signup-form.git
+git clone https://github.com/qudsiyashaikh/Signup-Form.git
 Navigate to the project directory:
 
 bash
